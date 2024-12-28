@@ -1,0 +1,15 @@
+{
+    "accountID": "81892713987289",
+    "stage": "production",
+    "product": "app-test",
+    "additionals": {
+      "info": "extra data",
+      "repository": "github-exemple-3",
+      "error": "AlreadyExists",
+      "status": "00"
+    },
+    "year": "2024",
+    "month": "12",
+    "day": "28",
+    "hour": "16"
+}

@@ -1,0 +1,3 @@
+DATABASE="SEU_DB"
+TABLE_NAME="SUA_TB_GLUE"
+PATH_BUCKET="s3://seu-bucket/output-parquet/"

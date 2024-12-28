@@ -1,0 +1,4 @@
+pandas
+awswrangler
+boto3
+python-dotenv

@@ -1,0 +1,13 @@
+{
+    "accountID": "78917823971897",
+    "stage": "execution",
+    "product": "product2",
+    "additionals": {
+      "info": "extra data",
+      "repository": "github-exemple-2"
+    },
+    "year": "2024",
+    "month": "12",
+    "day": "19",
+    "hour": "15"
+}
